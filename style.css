@@ -1,0 +1,40 @@
+*{
+    margin-top: 10px;
+    padding-left: 5px;
+    box-sizing: border-box;
+}
+.coupon {
+    border: 5px solid #bbb;
+    width: 80%;
+    border-radius: 15px; 
+    margin: 0 auto; 
+    max-width: 600px;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color: #f1f1f1;
+    text-align: center;
+    
+  }
+  
+  .promo {
+    background: #ccc;
+    padding: 3px;
+    
+  }
+  
+  .expire {
+    color: rgb(184, 173, 173);
+  }
+  image
+  {
+    width: 200px;
+   padding-right: 45px;
+
+  }
+  .b
+  {
+margin-right: 30px;
+  }
+  
